@@ -1,0 +1,8 @@
+welcome to the github
+different type of languages 
+java 
+c 
+c++
+go lang
+c#
+machine level 
